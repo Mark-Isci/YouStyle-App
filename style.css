@@ -1,0 +1,76 @@
+.header{
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  padding: 150px 50px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+
+}
+
+body{
+font-family: 'Open Sans', sans-serif;
+}
+
+/* Retrouve les styles de tes stars préférées Wear like a star, Become your own star. */
+
+position: absolute;
+width: 569px;
+height: 282px;
+left: 89px;
+top: 268px;
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 48px;
+
+color: #000000;
+
+
+.header h1 {
+  color: white;
+  font-size: 65px;
+}
+
+
+.header p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.feature {
+	text-align: center;
+}
+
+.footer {
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  text-align: center;
+}
+
+.fa-accessible-icon {
+	font-size: 50px;
+	color:white;
+}
+
+.fa-address-book {
+	font-size: 50px;
+	color:white;
+}
+
+.fa-adjust {
+	font-size: 50px;
+	color:white;
+}
+
+.fa-android {
+	font-size: 50px;
+	color:white;
+}
